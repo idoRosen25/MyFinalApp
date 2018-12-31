@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
     private ListView savedList;
     private TextView noMovie;
 
+    //DOING SOMTHING  
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
